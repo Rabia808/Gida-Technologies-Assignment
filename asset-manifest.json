@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react_condional_ModalWindow/static/css/main.944f8d22.css",
-    "main.js": "/react_condional_ModalWindow/static/js/main.6e074621.js",
-    "static/media/gif.gif": "/react_condional_ModalWindow/static/media/gif.d6969ccea0e1394b1147.gif",
-    "static/media/heroImage.jpg": "/react_condional_ModalWindow/static/media/heroImage.81e1e65315e1dd1a00a6.jpg",
-    "static/media/graph.jpg": "/react_condional_ModalWindow/static/media/graph.363eb49d617d0806ef69.jpg",
-    "index.html": "/react_condional_ModalWindow/index.html",
-    "main.944f8d22.css.map": "/react_condional_ModalWindow/static/css/main.944f8d22.css.map",
-    "main.6e074621.js.map": "/react_condional_ModalWindow/static/js/main.6e074621.js.map"
+    "main.css": "/Gida-Technologies-Assignment/static/css/main.944f8d22.css",
+    "main.js": "/Gida-Technologies-Assignment/static/js/main.19b17f9b.js",
+    "static/media/gif.gif": "/Gida-Technologies-Assignment/static/media/gif.d6969ccea0e1394b1147.gif",
+    "static/media/heroImage.jpg": "/Gida-Technologies-Assignment/static/media/heroImage.81e1e65315e1dd1a00a6.jpg",
+    "static/media/graph.jpg": "/Gida-Technologies-Assignment/static/media/graph.363eb49d617d0806ef69.jpg",
+    "index.html": "/Gida-Technologies-Assignment/index.html",
+    "main.944f8d22.css.map": "/Gida-Technologies-Assignment/static/css/main.944f8d22.css.map",
+    "main.19b17f9b.js.map": "/Gida-Technologies-Assignment/static/js/main.19b17f9b.js.map"
   },
   "entrypoints": [
     "static/css/main.944f8d22.css",
-    "static/js/main.6e074621.js"
+    "static/js/main.19b17f9b.js"
   ]
 }
